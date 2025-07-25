@@ -19,3 +19,5 @@ KCard Middleware Database and WorkFlow
 | B_CLEAN_LOG_EXEC     | Job: Clean Log / System Maintenance                                  |
 | B_CSH_BAK_TXN_EXEC   | EDC/POS Cash Back Transaction                                        |
 | B_CSH_DPT_OUS_EXEC   | Cash Deposit – On-Us ATM                                             |
+| B_WOF_CLS_TXN_EXEC   | Cardless Withdrawal (QR Scan) – Off-Us ATM                           |
+| B_WOU_CLS_TXN_EXEC   |Cardless Withdrawal (QR Scan) – On-Us ATM                             |
